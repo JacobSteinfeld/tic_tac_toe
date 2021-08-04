@@ -1,5 +1,5 @@
 # tic_tac_toe
-Hot to play:
+How to play:
 ===============
     - The game is run using python. 
     - The Tic-Tac-Toe game board is made in a 3 x 3 char array. Every open spot will have the character x'V.
